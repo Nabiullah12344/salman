@@ -1,0 +1,234 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Rubik", sans-serif;
+}
+header{
+    display: flex;
+    gap: 166px;
+    padding: 105px;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar ul{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    
+}
+.navbar a{
+    text-decoration: none;
+    color: #4D4D4D;
+}
+.loginBtn{
+     color: #4CAF4F;
+     border: none;
+     padding: 15px 60px;
+     border-radius: 6px;
+}
+.img button{
+    padding: 5px;
+}
+.img{
+    display: flex;
+    gap: 14px;
+}
+.singup{
+    background-color: #4CAF4F;
+    padding: 22px 25px;
+    border-radius: 6px;
+    border: none;
+}
+.heading{
+    padding-left: 120px;
+}
+.heading h1{
+    font-size: 64px;
+}
+.heading p{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.heading button{
+    border: none;
+    padding: 15px 32px;
+    background-color: #4CAF4F;
+    border-radius: 5px;
+}
+.august{
+    color: #4CAF4F;
+    font-size: 64px;
+}
+.para{
+    font-size: 14px;
+    color: #717171;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+.display{
+    padding-right: 180px;
+}
+.top h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+.top .toto{
+    display: flex;
+    align-items: center;
+    justify-self:center;
+}
+.botom .center {
+    display: flex;
+    gap: 135px;
+    padding-left: 110px;
+    justify-content: space-around;
+    padding-right: 150px;
+    margin-top: 40px;
+}
+.heading2{
+    margin-top: 60px;
+}
+.heading2 h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    color: #4D4D4D;
+}
+.heading2 p{
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    padding: 0 144PX;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40PX;
+}
+.table{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ABBED133;
+    gap: 16px;
+    padding: 24px;
+    border-radius: 8px;
+}
+.card h3{
+    color: #4D4D4D;
+}
+.free{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.free .gap{
+    display: flex;
+    gap: 130px;
+    padding-top: 124px;
+}
+
+.free .fire img{
+    padding-right: 90px;
+}
+.right h2{
+    color: #4D4D4D;
+}
+.right p{
+    padding-top: 20px;
+}
+.right button{
+    margin-top: 20px;
+    background-color: #4CAF4F;
+    color: white;
+    padding: 15px 35px;
+    border: none;
+    border-radius: 5px;
+}
+.augusts{
+    color: #4CAF4F;
+    font-size: 36px;
+    padding-top: 5px;
+}
+.number{
+    background-color: #F5F7FA;
+    padding: 84px 144px;
+    display: flex;
+    justify-content: space-between;
+}
+.common .pakistan{
+    color: #4D4D4D;
+    font-size: 36px;
+}
+.common{
+    padding-left: 200px;
+}
+.common p{
+    padding-top: 10px;
+}
+.second{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    gap: 50px;
+}
+.third{
+    display: flex;
+    gap: 10px;
+}
+.pana{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.pana .gaps{
+    display: flex;
+    gap: 130px;
+    padding-top: 124px;
+}
+.pana .july img{
+    padding-right: 90px;
+}
+.loop h2{
+    color: #4D4D4D;
+}
+.loop p{
+    padding-top: 20px;
+}
+.loop button{
+    margin-top: 20px;
+    background-color: #4CAF4F;
+    color: white;
+    padding: 15px 35px;
+    border: none;
+    border-radius: 5px;
+}
+.tesla{
+    display: flex;
+    padding-left: 230px;
+    gap: 90px;
+    align-self: center;
+}
+.links.pass{
+    display: flex;
+    flex-direction: column;
+}
+.contanier .ttt{
+    padding-top: 20px;
+}
+.contanier h4{
+    color: #4CAF4F;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+.links{
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+}
